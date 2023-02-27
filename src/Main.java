@@ -41,6 +41,7 @@ public class Main {
             }
             else{System.out.println("You can't make the number so the game ends");
                 break;}
+            System.out.println("You win");
         }
     }
 }
